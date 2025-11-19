@@ -30,5 +30,4 @@ Notes
 - Ensure DB credentials (if used) are set in `database_connection.py` or via environment variables.
 - Use `Apply Weights` in the UI to recompute scores after changing sliders.
 
-That's all — this file only includes the essential start commands.
 
